@@ -43,5 +43,11 @@ Here's a glimpse of the technologies and tools we use in our projects:
 
 We're excited to collaborate, share insights, and contribute to the blockchain community. Feel free to reach out for discussions, partnership opportunities, or inquiries about our projects.
 
-- Email: <lokeshjoshi053@gmail.com>
-- Linkedin: (https://www.linkedin.com/in/lokesh-joshi-7b636018a/)
+<div id="badges">
+  <a href="https://www.linkedin.com/in/lokesh-joshi-7b636018a/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.twitter.com/lokeshjoshi053">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
