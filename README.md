@@ -50,8 +50,11 @@ Here's a glimpse of the technologies and tools we use in our projects:
 <!-- Connect with Us -->
 
 ## 📫 <span style="color:green">Connect with Us</span>
-<p align="left">
-<a href="https://www.twitter.com/lokeshjoshi053" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lokeshjoshi053" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/lokesh-joshi-7b636018a/" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lokesh-joshi-7b636018a/" height="30" width="40" /></a>
-<a href="https://instagram.com/0xlokeshjoshi053" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0xlokeshjoshi053" height="30" width="40" /></a>
-</p>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/lokesh-joshi-7b636018a/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.twitter.com/lokeshjoshi053">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
