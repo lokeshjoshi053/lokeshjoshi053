@@ -2,7 +2,7 @@
 
 # 👋 Welcome to <span style="color:green">**My Profile**</span>
 
- <img align = "center"  width =1000  alt = "coding image" src= "https://github.com/lokeshjoshi053/lokeshjoshi053/blob/main/LokeshJoshi.png">
+ <img align = "center"  width =1000  alt = "coding image" src= "https://github.com/lokeshjoshi053/lokeshjoshi053/blob/main/lokeshjoshi.png">
   </p>
 <h3 align="center">Blockchain Engineer from India 💙 🇮🇳.</h3>
 <br>
