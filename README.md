@@ -13,7 +13,6 @@
 <img align = "right" width = "449" height ="430"  alt = "coding image " src = "https://user-images.githubusercontent.com/85225156/229419776-37c8d007-f821-4331-b04e-313c93c31791.gif">
 <!-- <h3 align="center">Dedicated Programmer from India 💙 🇮🇳.</h3> -->
 <!-- <br> -->
-
 Hello, I'm Lokesh, and I'm Passionately Curious about the world of technology. As Albert Einstein once said, "I have no special talent, I am only passionately curious." And that's exactly how I feel about the potential of technology to shape our world for the better.
 
 At the heart of my passion lies blockchain technology, which has the power to revolutionize society and bring about unprecedented changes. I am fascinated by the idea of decentralization and how it can transform the world we live in. I am particularly interested in exploring the various use cases of blockchain, such as NFTs in the metaverse, and how they can be leveraged in the gaming ecosystem.
