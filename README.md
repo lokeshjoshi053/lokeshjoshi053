@@ -21,7 +21,7 @@ At the heart of my passion lies blockchain technology, which has the power to re
 
 As a technology buff, I am constantly seeking to expand my knowledge in areas such as Blockchain, Mern Stack and DevOps. I believe that these areas are critical for keeping people and data secure in the digital age. I take pride in sharing my expertise with others and helping them stay safe in an increasingly uncertain world. 
 
-
+<!-- </br> -->
 <!-- Expertise -->
 
 ## 💼 <span style="color:green">Expertise</span>
