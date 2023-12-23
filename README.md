@@ -13,11 +13,21 @@
 <img align = "right" width = "449" height ="430"  alt = "coding image " src = "https://user-images.githubusercontent.com/85225156/229419776-37c8d007-f821-4331-b04e-313c93c31791.gif">
 <!-- <h3 align="center">Dedicated Programmer from India 💙 🇮🇳.</h3> -->
 <!-- <br> -->
-Hello, I'm Lokesh, and I'm Passionately Curious about the world of technology. As Albert Einstein once said, "I have no special talent, I am only passionately curious." And that's exactly how I feel about the potential of technology to shape our world for the better.
-At the heart of my passion lies blockchain technology, which has the power to revolutionize society and bring about unprecedented changes. I am fascinated by the idea of decentralization and how it can transform the world we live in. I am particularly interested in exploring the various use cases of blockchain, such as NFTs in the metaverse, and how they can be leveraged in the gaming ecosystem.
+Code, Coins, and Creativity: Breathing Life into Decentralized Dreams🚀
 
-As a technology buff, I am constantly seeking to expand my knowledge in areas such as Blockchain, Mern Stack and DevOps. I believe that these areas are critical for keeping people and data secure in the digital age. I take pride in sharing my expertise with others and helping them stay safe in an increasingly uncertain world.     covert into Hello, I'm Lokesh, and I'm Passionately Curious about the world of technology. As Albert Einstein once said, "I have no special talent, I am only passionately curious." And that's exactly how I feel about the potential of technology to shape our world for the better.
-At the heart of my passion lies blockchain technology, which has the power to revolutionize society and bring about unprecedented changes. I am fascinated by the idea of decentralization and how it can transform the world we live in. I am particularly interested in exploring the various use cases of blockchain, such as NFTs in the metaverse, and how they can be leveraged in the gaming ecosystem.
+Passionate Explorer: Like Einstein, I find my strength in boundless curiosity about technology's potential.
+
+Electronics Grad: Proud graduate from Government Engineering College Rajkot, diving into the tech world.
+
+Versatile Techie: Thrive in blockchain, MERN stack, and DevOps; delivered 4+ successful projects.
+
+Blockchain Enthusiast: Smart contracts with Solidity, Rust, and Move are my playground.
+
+Full Stack Mastery: From Rust backend to React/Next.js frontend, I craft comprehensive solutions.
+
+DevOps Maestro: Terraform, AWS, Git, Jira, Ansible - I orchestrate seamless project deployments.
+
+Innovation Advocate: Embrace Steve Jobs' philosophy - let's lead, innovate, and impact positively! 🚀🌐
 
 <!-- </br> -->
 <!-- Expertise -->
