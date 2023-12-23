@@ -14,19 +14,19 @@
 <!-- <h3 align="center">Dedicated Programmer from India 💙 🇮🇳.</h3> -->
 <!-- <br> -->
 
-Code, Coins, and Creativity: Breathing Life into Decentralized Dreams🚀
+◾ Code, Coins, and Creativity: Breathing Life into Decentralized Dreams🚀
 
-Electronics Grad: Proud graduate from Government Engineering College Rajkot, diving into the tech world.
+◾ Electronics Grad: Proud graduate from Government Engineering College Rajkot, diving into the tech world.
 
-Versatile Techie: Thrive in blockchain, MERN stack, and DevOps; delivered 4+ successful projects.
+◾ Versatile Techie: Thrive in Blockchain, Rust, and DevOps; delivered 4+ successful projects.
 
-Blockchain Enthusiast: Smart contracts with Solidity, Rust, and Move are my playground.
+◾ Blockchain Enthusiast: Smart contracts with Solidity, Rust, and Move are my playground.
 
-Full Stack Mastery: From Rust backend to React/Next.js frontend, I craft comprehensive solutions.
+◾ Full Stack Mastery: From Rust backend to React/Next.js frontend, I craft comprehensive solutions.
 
-DevOps Maestro: Terraform, AWS, Git, Jira, Ansible - I orchestrate seamless project deployments.
+◾ DevOps Maestro: Terraform, AWS, Git, Jira, Ansible - I orchestrate seamless project deployments.
 
-Innovation Advocate: Embrace Steve Jobs' philosophy - let's lead, innovate, and impact positively! 🚀🌐
+◾ Innovation Advocate: Embrace Steve Jobs' philosophy - let's lead, innovate, and impact positively!🌐
 
 <!-- </br> -->
 <!-- Expertise -->
