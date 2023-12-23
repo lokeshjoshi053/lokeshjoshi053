@@ -16,9 +16,6 @@
 
 Code, Coins, and Creativity: Breathing Life into Decentralized Dreams🚀
 
-
-Passionate Explorer: Like Einstein, I find my strength in boundless curiosity about technology's potential.
-
 Electronics Grad: Proud graduate from Government Engineering College Rajkot, diving into the tech world.
 
 Versatile Techie: Thrive in blockchain, MERN stack, and DevOps; delivered 4+ successful projects.
