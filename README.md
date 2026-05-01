@@ -1,3 +1,12 @@
+# Lokesh Joshi  
+### Blockchain Engineer | On-Chain AI | Web3 Architect  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
+</p>
+
+---
+
 ## 👨‍💻 About Me  
 
 I design and build **scalable, secure, and intelligent decentralized systems** — from low-level smart contracts to full-stack Web3 platforms.
@@ -43,13 +52,29 @@ I design and build **scalable, secure, and intelligent decentralized systems** �
 
 ---
 
+## 📊 GitHub Statistics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lokeshjoshi053&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lokeshjoshi053&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshjoshi053&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 ## 🌐 Connect  
 
 <p align="center">
-  <a href="https://lokeshjoshi.me">
+  <a href="https://lokeshjoshi.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=web&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com">
+  <a href="https://linkedin.com/in/lokesh-joshi-blockchain/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:lokeshjoshi053@gmail.com">
@@ -73,4 +98,4 @@ I design and build **scalable, secure, and intelligent decentralized systems** �
 
 ## ⚡ Approach  
 
-I focus on building **protocol-level systems** rather than isolated applications — systems that are scalable, composable, and resilient by design.
+I focus on building **protocol-level systems** rather than isolated applications systems that are scalable, composable, and resilient by design.
