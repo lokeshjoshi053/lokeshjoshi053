@@ -26,7 +26,7 @@ I design and build **scalable, secure, and intelligent decentralized systems** f
 - Bitcoin Script and custom on-chain logic  
 
 ### Backend & Infrastructure  
-- Node.js, NestJS, Django, Rust (Actix, Warp)  
+- Node.js, NestJS, Bun, Rust (Actix, Warp)  
 - Microservices and high-throughput system design  
 - CI/CD, Kubernetes, Terraform  
 
