@@ -52,15 +52,6 @@ I design and build **scalable, secure, and intelligent decentralized systems** â
 
 ---
 
-## <span style="color:green">Github Analytics</span>
-
-<div align="center">
-  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lokeshjoshi053&theme=tokyonight">
-</div>
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=lokeshjoshi053&bg_color=1B1B27&line=BF91F3&point=39BDAE&area=true&area_color=BF91F3&title_color=70A5FD&color=39BDAE) 
-
----
 
 ## ğŸŒ Connect  
 
