@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me  
 
-I design and build **scalable, secure, and intelligent decentralized systems** — from low-level smart contracts to full-stack Web3 platforms.
+I design and build **scalable, secure, and intelligent decentralized systems** from low-level smart contracts to full-stack Web3 platforms.
 
 - Experience across Ethereum, Solana, Base, and Bitcoin  
 - Focused on on-chain AI agents and analytics systems  
