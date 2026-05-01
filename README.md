@@ -11,10 +11,10 @@
 
 I design and build **scalable, secure, and intelligent decentralized systems** — from low-level smart contracts to full-stack Web3 platforms.
 
-- ⚙️ Experience across Ethereum, Solana, Base, and Bitcoin  
-- 🧠 Focused on on-chain AI agents and analytics systems  
-- 🔐 Strong emphasis on smart contract security, auditing, and formal verification  
-- 🌐 Active in the global Web3 ecosystem (ETHIndia, Token2049, EDCON, etc.)  
+- Experience across Ethereum, Solana, Base, and Bitcoin  
+- Focused on on-chain AI agents and analytics systems  
+- Strong emphasis on smart contract security, auditing, and formal verification  
+- Active in the global Web3 ecosystem (DevConnect, ETHGlobal,ETHIndia, Token2049, EDCON, etc.)  
 
 ---
 
