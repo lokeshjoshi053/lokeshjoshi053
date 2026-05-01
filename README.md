@@ -1,5 +1,5 @@
 # Lokesh Joshi  
-### Blockchain Engineer | On-Chain AI | Web3 Architect  
+### Polyglot Blockchain & AI Research Engineer | Web3 Product R&D | Cloud & System Architect 
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
@@ -48,22 +48,18 @@ I design and build **scalable, secure, and intelligent decentralized systems** â
 **Backend:** Node.js, NestJS, Django  
 **Frontend:** React, Next.js  
 **Infrastructure:** AWS, Azure, Terraform, Kubernetes  
-**Security:** Slither, Mythril, Echidna, formal verification  
+**Security:** Slither, Mythril, Echidna, Formal Verification  
 
 ---
 
 ## ðŸ“Š GitHub Statistics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lokeshjoshi053&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lokeshjoshi053&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lokeshjoshi053&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshjoshi053&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshjoshi053&layout=compact&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
@@ -98,4 +94,4 @@ I design and build **scalable, secure, and intelligent decentralized systems** â
 
 ## âš¡ Approach  
 
-I focus on building **protocol-level systems** rather than isolated applications systems that are scalable, composable, and resilient by design.
+I focus on building **protocol-level systems** rather than isolated applications â€” systems that are scalable, composable, and resilient by design.
