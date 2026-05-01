@@ -20,17 +20,17 @@ I design and build **scalable, secure, and intelligent decentralized systems** �
 
 ## 🧩 Core Expertise  
 
-### 🔗 Blockchain Engineering  
+### Blockchain Engineering  
 - Smart contract development (Solidity, Rust, Move)  
 - DeFi protocols, tokenomics, and launchpad systems  
 - Bitcoin Script and custom on-chain logic  
 
-### ⚙️ Backend & Infrastructure  
+### Backend & Infrastructure  
 - Node.js, NestJS, Django, Rust (Actix, Warp)  
 - Microservices and high-throughput system design  
 - CI/CD, Kubernetes, Terraform  
 
-### 🤖 AI Systems in Web3  
+### AI Systems in Web3  
 - On-chain analytics pipelines  
 - Predictive models for trading signals  
 - Intelligent automation systems  
