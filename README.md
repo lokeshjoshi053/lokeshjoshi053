@@ -52,15 +52,13 @@ I design and build **scalable, secure, and intelligent decentralized systems** â
 
 ---
 
-## ðŸ“Š GitHub Statistics  
+## <span style="color:green">Github Analytics</span>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lokeshjoshi053&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=1800" />
-</p>
+<div align="center">
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lokeshjoshi053&theme=tokyonight">
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshjoshi053&layout=compact&hide_border=true&cache_seconds=1800" />
-</p>
+![](https://github-readme-activity-graph.vercel.app/graph?username=lokeshjoshi053&bg_color=1B1B27&line=BF91F3&point=39BDAE&area=true&area_color=BF91F3&title_color=70A5FD&color=39BDAE) 
 
 ---
 
