@@ -1,5 +1,5 @@
 # Lokesh Joshi  
-### Polyglot Blockchain & AI Research Engineer | Web3 Product R&D | Cloud & System Architect 
+### Blockchain & AI Infrastructure Engineer
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
