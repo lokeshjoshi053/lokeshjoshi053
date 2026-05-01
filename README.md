@@ -1,27 +1,27 @@
-## 🌌 About Me  
+## 👨‍💻 About Me  
 
 I design and build **scalable, secure, and intelligent decentralized systems** — from low-level smart contracts to full-stack Web3 platforms.
 
-- ⚡ Worked across Ethereum, Solana, Base, and Bitcoin  
-- 🧠 Building on-chain AI agents and analytics systems  
-- 🔐 Strong focus on smart contract security, audits, and formal verification  
-- 🌍 Active in global Web3 ecosystem (ETHIndia, Token2049, EDCON & more)  
+- ⚙️ Experience across Ethereum, Solana, Base, and Bitcoin  
+- 🧠 Focused on on-chain AI agents and analytics systems  
+- 🔐 Strong emphasis on smart contract security, auditing, and formal verification  
+- 🌐 Active in the global Web3 ecosystem (ETHIndia, Token2049, EDCON, etc.)  
 
 ---
 
-## 🧠 What I Do  
+## 🧩 Core Expertise  
 
-### 💎 Blockchain Engineering  
-- Smart Contracts (Solidity, Rust, Move)  
-- DeFi Protocols, Tokenomics, Launchpads  
-- Bitcoin Script & On-chain Logic  
+### 🔗 Blockchain Engineering  
+- Smart contract development (Solidity, Rust, Move)  
+- DeFi protocols, tokenomics, and launchpad systems  
+- Bitcoin Script and custom on-chain logic  
 
 ### ⚙️ Backend & Infrastructure  
-- Node.js, NestJS, Django, Rust (Actix/Warp)  
-- Microservices & high-throughput systems  
+- Node.js, NestJS, Django, Rust (Actix, Warp)  
+- Microservices and high-throughput system design  
 - CI/CD, Kubernetes, Terraform  
 
-### 🤖 AI + Web3  
+### 🤖 AI Systems in Web3  
 - On-chain analytics pipelines  
 - Predictive models for trading signals  
 - Intelligent automation systems  
@@ -38,25 +38,12 @@ I design and build **scalable, secure, and intelligent decentralized systems** �
 **Languages:** Solidity, Rust, Python, TypeScript  
 **Backend:** Node.js, NestJS, Django  
 **Frontend:** React, Next.js  
-**DevOps:** AWS, Azure, Terraform, Kubernetes  
-**Security:** Slither, Mythril, Echidna, Formal Verification  
+**Infrastructure:** AWS, Azure, Terraform, Kubernetes  
+**Security:** Slither, Mythril, Echidna, formal verification  
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lokeshjoshi053&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lokeshjoshi053&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshjoshi053&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🌐 Connect With Me  
+## 🌐 Connect  
 
 <p align="center">
   <a href="https://lokeshjoshi.me">
@@ -75,43 +62,15 @@ I design and build **scalable, secure, and intelligent decentralized systems** �
 
 ---
 
-## ⚡ Philosophy  
+## 🎯 Focus Areas  
 
-> Code is not just logic — it’s leverage to reshape systems.  
-
-I focus on building **protocol-level thinking**, not just applications — systems that scale, evolve, and create impact.
-
----
-
-## 🧬 Current Focus  
-
-- 🧠 On-chain AI Agents  
-- ⚡ High-frequency trading infrastructure  
-- 🔗 Cross-chain interoperability  
-- 🪙 Next-generation DeFi systems  
+- On-chain AI agents  
+- High-frequency trading infrastructure  
+- Cross-chain interoperability  
+- Next-generation DeFi systems  
 
 ---
 
-## 🧑‍💻 Fun Side  
+## ⚡ Approach  
 
-- 🧩 Designing clean and scalable architectures  
-- 🚀 Exploring decentralized intelligence & autonomous systems  
-- 🌍 Attending global Web3 conferences and hackathons  
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300"/>
-</p>
-
----
-
-## 👀 Profile Views  
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lokeshjoshi053&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
-
-### ⭐ Building the Future — One Block at a Time 🚀
+I focus on building **protocol-level systems** rather than isolated applications — systems that are scalable, composable, and resilient by design.
