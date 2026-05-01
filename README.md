@@ -1,71 +1,117 @@
-<!-- Introduction -->
+## 🌌 About Me  
 
-# 🌐 Welcome to <span style="color:green"> Step into the World of "Me": Where My Story and Yours Converge.📖🔑
+I design and build **scalable, secure, and intelligent decentralized systems** — from low-level smart contracts to full-stack Web3 platforms.
 
-**</span>
+- ⚡ Worked across Ethereum, Solana, Base, and Bitcoin  
+- 🧠 Building on-chain AI agents and analytics systems  
+- 🔐 Strong focus on smart contract security, audits, and formal verification  
+- 🌍 Active in global Web3 ecosystem (ETHIndia, Token2049, EDCON & more)  
 
- <img align = "center"  width =1000  alt = "coding image" src= "https://github.com/lokeshjoshi053/lokeshjoshi053/blob/main/lokeshjoshi.png">
-  </p>
-<h3 align="center">Blockchain Engineer from India 💙 🇮🇳.</h3>
-<br>
+---
 
+## 🧠 What I Do  
 
-<img align = "right" width = "449" height ="430"  alt = "coding image " src = "https://user-images.githubusercontent.com/85225156/229419776-37c8d007-f821-4331-b04e-313c93c31791.gif">
-<!-- <h3 align="center">Dedicated Programmer from India 💙 🇮🇳.</h3> -->
-<!-- <br> -->
+### 💎 Blockchain Engineering  
+- Smart Contracts (Solidity, Rust, Move)  
+- DeFi Protocols, Tokenomics, Launchpads  
+- Bitcoin Script & On-chain Logic  
 
-◾ Code, Coins, and Creativity: Breathing Life into Decentralized Dreams🚀
+### ⚙️ Backend & Infrastructure  
+- Node.js, NestJS, Django, Rust (Actix/Warp)  
+- Microservices & high-throughput systems  
+- CI/CD, Kubernetes, Terraform  
 
-◾ Electronics Grad: Proud graduate from Government Engineering College Rajkot, diving into the tech world.
+### 🤖 AI + Web3  
+- On-chain analytics pipelines  
+- Predictive models for trading signals  
+- Intelligent automation systems  
 
-◾ Versatile Techie: Thrive in Blockchain, Rust, and DevOps; delivered 4+ successful projects.
+---
 
-◾ Blockchain Enthusiast: Smart contracts with Solidity, Rust, and Move are my playground.
+## 🛠️ Tech Stack  
 
-◾ Full Stack Mastery: From Rust backend to React/Next.js frontend, I craft comprehensive solutions.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=solidity,rust,js,ts,nodejs,react,nextjs,postgres,mongodb,aws,docker,kubernetes,git" />
+</p>
 
-◾ DevOps Maestro: Terraform, AWS, Git, Jira, Ansible - I orchestrate seamless project deployments.
+**Blockchain:** Ethereum, Solana, Base, Bitcoin  
+**Languages:** Solidity, Rust, Python, TypeScript  
+**Backend:** Node.js, NestJS, Django  
+**Frontend:** React, Next.js  
+**DevOps:** AWS, Azure, Terraform, Kubernetes  
+**Security:** Slither, Mythril, Echidna, Formal Verification  
 
-◾ Innovation Advocate: Embrace Steve Jobs' philosophy - let's lead, innovate, and impact positively!🌐
+---
 
-<!-- </br> -->
-<!-- Expertise -->
+## 📊 GitHub Stats  
 
-## 💼 <span style="color:green">Expertise</span>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lokeshjoshi053&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lokeshjoshi053&theme=tokyonight&hide_border=true" />
+</p>
 
-- Smart contract development
-- Full-stack blockchain development(DeFi, DAO, MetaVerse, ICO/IDO, WEB 3.0, Research and Development Etc.)
-- Launchpad contract development (With vesting)
-- Blockchain security and consensus mechanisms
-- Cryptocurrency integration and payment solutions
-- Decentralized application (DApp) design and implementation
-- Mern Stack and DevOps
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshjoshi053&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<!-- Technologies -->
+---
 
-## 🛠️ <span style="color:green">Technologies and Tools</span>
+## 🌐 Connect With Me  
 
-Here's a glimpse of the technologies and tools we use in our projects:
-
-- **Blockchain Platforms:** Ethereum, Binance Smart Chain, Solana, Hyperledger Fabric, Corda (R3), 
-- **Smart Contracts:** Solidity, Rust, Move
-- **Web3 Libraries:** Web3.js, ethers.js
-- **Frontend:** React, NextJs
-- **Backend:** Node.js, Express
-- **Database:** MongoDB
-- **Version Control:** Git, GitHub
-- **Testing:** Truffle, Hardhat, Jest
-
-</br>
-
-<!-- Connect with Us -->
-
-## 📫 <span style="color:green">Connect with Us</span>
-<div id="badges">
-  <a href="https://www.linkedin.com/in/lokesh-joshi-7b636018a/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<p align="center">
+  <a href="https://lokeshjoshi.me">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=web&logoColor=white"/>
   </a>
-  <a href="https://www.twitter.com/lokeshjoshi053">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
-</div>
+  <a href="mailto:lokeshjoshi053@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://twitter.com/lokeshjoshi053">
+    <img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Philosophy  
+
+> Code is not just logic — it’s leverage to reshape systems.  
+
+I focus on building **protocol-level thinking**, not just applications — systems that scale, evolve, and create impact.
+
+---
+
+## 🧬 Current Focus  
+
+- 🧠 On-chain AI Agents  
+- ⚡ High-frequency trading infrastructure  
+- 🔗 Cross-chain interoperability  
+- 🪙 Next-generation DeFi systems  
+
+---
+
+## 🧑‍💻 Fun Side  
+
+- 🧩 Designing clean and scalable architectures  
+- 🚀 Exploring decentralized intelligence & autonomous systems  
+- 🌍 Attending global Web3 conferences and hackathons  
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300"/>
+</p>
+
+---
+
+## 👀 Profile Views  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lokeshjoshi053&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+### ⭐ Building the Future — One Block at a Time 🚀
